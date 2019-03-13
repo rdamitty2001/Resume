@@ -39,6 +39,8 @@
 .featured-work {
     margin-top: 25px;
     color: darkslategrey;
+    font-size: 35px;
+    font-weight: bold;
 
 }
 .col-md-4 {
